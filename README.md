@@ -1,12 +1,14 @@
 # AGCP_4DAS_I10_G1
 
-Projet AGCP - Groupe I10 - G1
+Projet AGCP — Classe 4DAS I10 — Groupe G1
 
-## Structure du dépôt
+## Structure
 
 - **Backend/** : microservices du projet
 - **Frontend/** : application cliente
-- **Documentation/** : présentations, diagrammes, dossier technique
+- **Documentation/**
+  - Presentation/ : présentation Séance 4
+  - Diagrams/ : diagramme d'architecture globale + principaux diagrammes
 
 ## Équipe
 
