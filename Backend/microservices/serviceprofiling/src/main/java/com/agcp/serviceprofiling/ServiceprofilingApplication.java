@@ -1,0 +1,13 @@
+package com.agcp.serviceprofiling;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ServiceprofilingApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ServiceprofilingApplication.class, args);
+	}
+
+}
