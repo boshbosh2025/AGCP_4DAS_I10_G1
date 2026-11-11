@@ -5,10 +5,6 @@
       <list>
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/discovery-server/pom.xml" />
-        <option value="$PROJECT_DIR$/MS/auth-service/pom.xml" />
-        <option value="$PROJECT_DIR$/MS/profiling-service/pom.xml" />
-        <option value="$PROJECT_DIR$/MS/group-service/pom.xml" />
-        <option value="$PROJECT_DIR$/MS/gamification-service/pom.xml" />
       </list>
     </option>
   </component>
