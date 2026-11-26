@@ -1,0 +1,51 @@
+{
+  "info": {
+    "_postman_id": "c099062b-0ba4-4833-b951-a4b2e903ac5f",
+    "name": "AGCP - API Gateway",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "59005690",
+    "_collection_link": "https://go.postman.co/collection/59005690-c099062b-0ba4-4833-b951-a4b2e903ac5f?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Analytics - Hello",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/analytics/hello",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "analytics",
+            "hello"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Analytics - Instance",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8080/analytics/instance",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "analytics",
+            "instance"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
